@@ -8,6 +8,9 @@
   },
   "repository": "https://github.com/OthmanAdi/planning-with-files",
   "license": "MIT",
+  "skills": [
+    "./skills/planning-with-files"
+  ],
   "keywords": [
     "planning",
     "manus",
